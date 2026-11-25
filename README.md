@@ -29,6 +29,7 @@ This project presents an interactive Sales & Revenue Analysis Dashboard develope
 The dashboard provides a consolidated view of sales and revenue performance, helping users identify trends, compare categories, and understand product and regional performance.
 
 # Dashboard Preview
+![Sales & Revenue Analysis Dashboard](Dashboard_Preview.png)
 
 ## Project Files
 - Power BI Dashboard (.pbix)
